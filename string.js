@@ -1,0 +1,45 @@
+// let str = "Hi hello java and welcome to tech WORld";
+// console.log(str.length);
+// console.log(str.toUpperCase());
+// console.log(str.toLowerCase());
+// console.log(str.split(" "));
+// console.log(str.split(""));
+// console.log(str.split(" ").reverse());
+// let str = "Playwright is my favourite techstack";
+// console.log(str.split(" ").reverse());
+// console.log(str.charAt(9));
+// console.log(str.indexOf('h'));
+// console.log(str.lastIndexOf('a'));
+// console.log(str.slice('-9'));
+// console.log(str.slice('10'));
+// console.log(str.substring(0,9));
+// console.log(str.substring(5,11));
+// console.log(str.substring(2,13));
+// console.log(str.length);
+// console.log(str.substring(4,12));
+// let str = "java is my favourite coding language java was my altime love at my college time";
+// console.log(str.replace("java","C++"));
+// console.log(str.replace("favourite","sweetest"));
+// console.log(str.replaceAll("my","us"));
+// console.log(str.trim());
+// console.log(str.concat(" so i was very happy"));
+// console.log(str.startsWith('j'));
+// console.log(str.startsWith('a'));
+// console.log(str.endsWith('p'));
+// console.log(str.endsWith('e'));
+// console.log(str.includes('welcome'));
+// console.log(str.includes('java'));
+// console.log(str.includes('Java'));
+// let str = "my name is Hari";
+// console.log(str.split(" ").reverse());
+// console.log(str.split("").reverse().join(""));
+// let fruit = "Banana";
+// let count = fruit.split("a").length-1;
+// console.log(count);
+
+//  let str = "Playwright is my favourite techstack";
+//  console.log(str.split(" ").reverse().join(" "));
+
+//  let place = "chennai city center";
+//  console.log(place.replaceAll("c","C"));
+

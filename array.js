@@ -9,3 +9,10 @@ console.log(phones[2],phones[1]);
 
 let Carbrands = ["BMW","Audi","Bens","BYD","Toyota","TATA"]
 console.log(Carbrands[4],Carbrands[0]);
+
+
+let technology = ["Java","C++","Python","javascript","playwright"]
+console.log(technology);
+
+let technology = ["Java","Python","javascript","playwright"]
+console.log(technology);
